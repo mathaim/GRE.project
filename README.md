@@ -99,7 +99,7 @@ clinicalmed <- subset(gss, gss$gss_code > 699 & gss$gss_code < 800 )
 
 
 
-# 1. GENDER AND BIO SCIENCES
+# 1. Gender and Biological Sciences
 ## Keeping First Year Only and Aggregating Biomedical Science by Gender
 ```{r}
 first.race.biogen <- biosciences[c(5, 51, 61, 71)]
@@ -149,7 +149,7 @@ legend("bottomleft", legend=c( "Men",  "Women"),
 
 ```
 
-# 2. RACE AND BIO SCIENCES
+# 2. Race and Biological Sciences
 
 ## Keeping First Year Only and Aggregating by Race
 ```{r}
