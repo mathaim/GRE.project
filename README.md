@@ -2,7 +2,7 @@
 ## GRE Project
 Assessing effects of requiring GRE as application requirement on racial disparity in STEM PhD programs. Preparing dataset for analysis and examining initial trends.
 
-Check out the visuals I produced on my website [https://mathaim.github.io/proj.html#gre_project], which I also made in R.
+Check out the visuals I produced on my [website](https://mathaim.github.io/proj.html#gre_project), which I also made in R.
 
           title: "Penn Opinion Research and Election Studies Fellowship"
           author: "Madelyn Mathai"
