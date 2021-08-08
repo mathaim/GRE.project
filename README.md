@@ -2,7 +2,18 @@
 ## GRE Project
 Assessing effects of requiring GRE as application requirement on racial disparity in STEM PhD programs. Preparing dataset for analysis and examining initial trends.
 
-Check out the visuals I produced on my [website](https://mathaim.github.io/proj.html#gre_project), which I also made in R.
+From 2014 to 2017 we have observed a massive decline in the number of schools that require the GRE for admission. To better understand the impact this has on diversity, I produced the following visuals:
+
+![image](biologicalsciences_race.PNG)
+
+![image](biologicalsciences_gender.PNG)
+
+![image](clinicalmedicine_race.PNG)
+
+![image](clinicalmedicine_gender.PNG)
+
+
+Although there isn't a strong conclusion that can be drawn yet, we can see a slight
 
           title: "Penn Opinion Research and Election Studies Fellowship"
           author: "Madelyn Mathai"
