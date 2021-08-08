@@ -13,7 +13,7 @@ From 2014 to 2017 we have observed a massive decline in the number of schools th
 ![image](clinicalmedicine_gender.PNG)
 
 
-Although there isn't a strong conclusion that can be drawn yet, we can see a slight increase in the number of black students enrolled over time. It is interesting to note that there are more women than men enrolled in both the biological sciences and clinical medicine programs, even in 2014. 
+Although there isn't a strong conclusion that can be drawn yet, we can see a slight increase in the number of black students enrolled over time. It is interesting to note that there are more women than men enrolled in both the biological sciences and clinical medicine programs, even in 2014. The percentage of Hispanic students in clinical medicine programs has also increased over time. Opportunities for further analysis include eventually segmenting the data by schools that dropped the GRE requirement in 2014, 2015, and 2016 to see if the trends correspond to the requirement or if there are other potential causes. 
 
           title: "Penn Opinion Research and Election Studies Fellowship"
           author: "Madelyn Mathai"
