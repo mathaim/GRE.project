@@ -8,7 +8,7 @@ From 2014 to 2017 we have observed a massive decline in the number of schools th
 
 ![image](biologicalsciences_gender.PNG)
 
-![image](clicalmedicine_race.PNG)
+![image](clicnicalmedicine_race.PNG)
 
 ![image](clinicalmedicine_gender.PNG)
 
